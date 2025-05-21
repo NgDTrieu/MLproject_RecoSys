@@ -1,0 +1,16 @@
+data/goodbooks-10k/
+**/target/
+**/*.class
+data/amazon/
+.ipynb_checkpoints/
+__pycache__/
+.cache
+.tmp/
+secret.py
+logs/
+*.sublime-workspace
+*.sublime-project
+.persistd/
+venv
+goodbooks-10k
+amazon_data

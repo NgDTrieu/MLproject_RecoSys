@@ -1,0 +1,4 @@
+scikit-surprise
+jupyter
+pandas
+scikit-learn
