@@ -71,6 +71,3 @@ We evaluate both **non–matrix-factorization** and **matrix-factorization** app
 6. Yehuda Koren, Robert Bell & Chris Volinsky. *Matrix Factorization Techniques for Recommender Systems*, 2009.  
 7. Nicolas Hug. *Surprise: A Python library for recommender systems*, JOSS 5(52):2174, 2020.  
 8. Xin Luo et al. *NMF-based collaborative filtering*, 2014.  
-
-*All information synthesized from ML_Project.pdf and rawReadme.pdf.*```
-
